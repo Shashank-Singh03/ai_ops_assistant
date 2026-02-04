@@ -1,0 +1,8 @@
+# Add to .gitignore if using version control
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+*.log
+.DS_Store
